@@ -1,5 +1,5 @@
 # Project Name: TikTok Claim Detection Model
-## Part of the Google Advanced Data Analytics Professional Certificate
+### Part of the Google Advanced Data Analytics Professional Certificate
 
 At TikTok, our mission is to inspire creativity and bring joy. Our employees lead with curiosity and move at the speed of culture. With our company's flat structure, you’ll have dynamic opportunities to make a real impact on a rapidly expanding company and grow your career.
 
